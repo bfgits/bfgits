@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  🔭 I'm working on process automation or build engineer
+###  🔭 I'm working on process automation or build engineering
 ###  🌱 I’m currently learning Devops 
 ###  😄 Advanced skills are Cloud Platform management, K8S, Devops(CI/CD Pipeline)
 ###  ⚡ Versed in cloud technologies including Amazon Web Services (AWS), Google Cloud Platform (GCP), Alibaba Cloud（Aliyun) and Microsoft Azure
