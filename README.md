@@ -1,6 +1,8 @@
-## Hi,   
-I'm Simon Zhu, a Devops engineer 🚀 from Shenzhen China. Currently, I'm a Devops Team Leader.  
-Beside's that, I enjoy playing badminton and traveling.
+### Hi,   
+### I'm Simon Zhu, a Devops engineer 🚀 from Shenzhen China. Currently, I'm a Devops Team Leader.  
+### Beside's that, I enjoy playing badminton and traveling.
+
+![------------------](https://raw.githubusercontent.com/bfgits/bfgits/main/assets/lines/cloudy.png)
 
 <!--
 **bfgits/bfgits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,14 +22,14 @@ Here are some ideas to get you started:
 ## Talking about Personal Stuffs:
 
 - 🔭 I'm working on `build engineering` or 'new development process';
-- 🌱 I’m currently learning `Devops`;
-- 😄 Advanced skills are `Cloud Platform` management, `K8S`, Devops(`CI/CD Pipeline`);
+- 🧑‍💻 I’m currently learning `Devops`;
+- 🧑‍🎓 Advanced skills are `Cloud Platform` management, `K8S`, Devops(`CI/CD Pipeline`);
 - ⚡ Versed in cloud technologies including Amazon Web Services (`AWS`), Alibaba Cloud（`Aliyun`), 
 Microsoft `Azure` and Google Cloud Platform (`GCP`);
+- 🤓 Always `learning new` things
 - 💬 Ask me about anything, I am really `happy` to help;
 
-
----
+![------------------](https://raw.githubusercontent.com/bfgits/bfgits/main/assets/lines/cloudy.png)
 
 > CORE skills
 > > *[SRE](https://sre.google/)*
@@ -42,4 +44,4 @@ Microsoft `Azure` and Google Cloud Platform (`GCP`);
 > > *[DevOps](https://aws.amazon.com/devops/what-is-devops/)*
 
 
-[updated on]: # (Last Edited on: 30/03/2022)
+[//]: # (Last Edited on: 30/03/2022)
