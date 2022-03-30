@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi,   
+I'm Simon Zhu, a Devops engineer 🚀 from Shenzhen China. Currently, I'm a Devops Team Leader.  
+Beside's that, I enjoy playing badminton and traveling.
 
 <!--
 **bfgits/bfgits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###  🔭 I'm working on process automation or build engineering
-###  🌱 I’m currently learning Devops 
-###  😄 Advanced skills are Cloud Platform management, K8S, Devops(CI/CD Pipeline)
-###  ⚡ Versed in cloud technologies including Amazon Web Services (AWS), Google Cloud Platform (GCP), Alibaba Cloud（Aliyun) and Microsoft Azure
+## Talking about Personal Stuffs:
+
+- 🔭 I'm working on `build engineering` or 'new development process';
+- 🌱 I’m currently learning `Devops`;
+- 😄 Advanced skills are `Cloud Platform` management, `K8S`, Devops(`CI/CD Pipeline`);
+- ⚡ Versed in cloud technologies including Amazon Web Services (`AWS`), Alibaba Cloud（`Aliyun`), 
+Microsoft `Azure` and Google Cloud Platform (`GCP`);
+- 💬 Ask me about anything, I am really `happy` to help;
+
+
+---
+
+> CORE skills
+> > *[SRE](https://sre.google/)*
+> 
+> > *[Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)*  
+> > *[Istio](https://istio.io/latest/about/service-mesh/)*
+> 
+> > *[Cloud Platform](https://www.cloudbolt.io/what-is-a-cloud-platform/)* 
+> 
+> > *[CI/CD Pipeline](https://docs.gitlab.com/ee/ci/pipelines/)*
+>
+> > *[DevOps](https://aws.amazon.com/devops/what-is-devops/)*
+
+
+[updated on]: # (Last Edited on: 30/03/2022)
