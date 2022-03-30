@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Talking about Personal Stuffs:
+## Something about me:
 
 - 🔭 I'm working on `build engineering` or 'new development process';
 - 🧑‍💻 I’m currently learning `Devops`;
