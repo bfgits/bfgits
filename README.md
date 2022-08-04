@@ -44,6 +44,6 @@ Microsoft `Azure` and Google Cloud Platform (`GCP`);
 
 
 ###  My Github Stats
-[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfgits)](https://github.com/anuraghazra/github-readme-stats)
+[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfgits)](https://github.com/bfgits)
 
 [//]: # (Last Edited on: 04/08/2022)
