@@ -33,7 +33,6 @@ Microsoft `Azure` and Google Cloud Platform (`GCP`);
 
 > CORE skills
 > > *[SRE](https://sre.google/)*
-> 
 > > *[Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)*  
 > > *[Istio](https://istio.io/latest/about/service-mesh/)*
 > 
@@ -44,4 +43,7 @@ Microsoft `Azure` and Google Cloud Platform (`GCP`);
 > > *[DevOps](https://aws.amazon.com/devops/what-is-devops/)*
 
 
-[//]: # (Last Edited on: 30/03/2022)
+###  My Github Stats
+[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfgits)](https://github.com/anuraghazra/github-readme-stats)
+
+[//]: # (Last Edited on: 04/08/2022)
