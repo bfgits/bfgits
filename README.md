@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Something about me:
 
-- 🔭 I'm working on `Cloud Platform Management` or 'DevOps processes/culture';
+- 🔭 I'm working on `Cloud Platform Management` or `DevOps processes/culture`;
 - 🧑‍💻 I’m currently learning `Devops`;
 - 🧑‍🎓 Advanced skills are `Cloud Platform` management, `K8S`, Devops(`CI/CD Pipeline`);
 - ⚡ Versed in cloud technologies including Amazon Web Services (`AWS`), Alibaba Cloud（`Aliyun`), 
