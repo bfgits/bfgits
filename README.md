@@ -1,49 +1,51 @@
-### Hi,   
-### I'm Simon Zhu, a Devops engineer 🚀 from Shenzhen China. Currently, I'm a Devops Team Leader.  
-### Beside's that, I enjoy playing badminton and traveling.
+# Hi there! 👋
+
+## I'm Simon Zhu, a DevOps Engineer 🚀
+
+📍 **Based in:** Shenzhen, China  
+💼 **Current Role:** DevOps Team Leader  
+🏸 **Hobbies:** Badminton & Traveling
 
 ![------------------](https://raw.githubusercontent.com/bfgits/bfgits/main/assets/lines/cloudy.png)
 
-<!--
-**bfgits/bfgits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on process automation
-- 🌱 I’m currently learning Devops and management
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## Something about me:
-
-- 🔭 I'm working on `Cloud Platform Management` or `DevOps processes/culture`;
-- 🧑‍💻 I’m currently learning `Devops`;
-- 🧑‍🎓 Advanced skills are `Cloud Platform` management, `K8S`, Devops(`CI/CD Pipeline`);
-- ⚡ Versed in cloud technologies including Amazon Web Services (`AWS`), Alibaba Cloud（`Aliyun`), 
-Microsoft `Azure` and Google Cloud Platform (`GCP`);
-- 🤓 Always `learning new` things
-- 💬 Ask me about anything, I am really `happy` to help;
+- 🔭 Currently working on **Cloud Platform Management** and **DevOps processes/culture**
+- 🌱 Continuously learning **DevOps methodologies** and **project management**
+- 💻 Advanced skills in **Cloud Platform** management, **Kubernetes**, and **CI/CD Pipeline** development
+- ☁️ Experienced with multiple cloud platforms: **AWS**, **Alibaba Cloud (Aliyun)**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**
+- 🤓 Always learning new technologies and best practices
+- 💬 Ask me about anything - I'm happy to help!
 
 ![------------------](https://raw.githubusercontent.com/bfgits/bfgits/main/assets/lines/cloudy.png)
 
-> CORE skills
-> > *[SRE](https://sre.google/)*
-> > *[Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)*  
-> > *[Istio](https://istio.io/latest/about/service-mesh/)*
-> 
-> > *[Cloud Platform](https://www.cloudbolt.io/what-is-a-cloud-platform/)* 
-> 
-> > *[CI/CD Pipeline](https://docs.gitlab.com/ee/ci/pipelines/)*
->
-> > *[DevOps](https://aws.amazon.com/devops/what-is-devops/)*
+## 🛠️ Core Skills
 
+### Site Reliability Engineering (SRE)
 
-###  My Github Stats
-[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfgits)](https://github.com/bfgits)
+- [Google SRE Practices](https://sre.google/)
 
-[//]: # (Last Edited on: 04/08/2022)
+### Container Orchestration
+
+- [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+- [Istio Service Mesh](https://istio.io/latest/about/service-mesh/)
+
+### Cloud Platforms
+
+- [Multi-Cloud Platform Management](https://www.cloudbolt.io/what-is-a-cloud-platform/)
+
+### CI/CD & Automation
+
+- [GitLab CI/CD Pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
+- [DevOps Best Practices](https://aws.amazon.com/devops/what-is-devops/)
+
+## 📈 GitHub Statistics
+
+[![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfgits&show_icons=true&theme=radical)](https://github.com/bfgits)
+
+---
+
+💡 *"Always learning, always improving, always building better systems."*
+
+[//]: # (Last Edited on: 10/17/2025)
